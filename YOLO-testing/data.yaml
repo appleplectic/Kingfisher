@@ -1,0 +1,7 @@
+path: C:\Users\Daniel_Chen\PycharmProjects\yolo-eval\sar-dataset
+train: images/train # train images (relative to 'path') 4 images
+val: images/val # val images (relative to 'path') 4 images
+
+# Classes
+names:
+  0: person
